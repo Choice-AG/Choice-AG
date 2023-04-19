@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Choice-AG or you can simply call me Goi<br>👀 I’m interested in anything related to programming and web development<br>🌱 I’m currently learning web development<br>📫 How to reach me via LinkedIn: [goizane-o](https://linkedin.com/in/goizane-o) 
+👋 Hi, I’m Choice-AG or you can simply call me Goi<br>👀 I’m interested in anything related to programming and web development<br>🌱 I’m currently learning web development
 
 
 ## 🌐 Socials:
